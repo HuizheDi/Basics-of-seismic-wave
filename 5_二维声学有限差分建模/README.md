@@ -37,9 +37,3 @@ Time for some "serious" FD modelling with the most widely used benchmark problem
 Beside modelling of seismic surveys, our 2D acoustic FD code can be used as the core of a seismic full waveform inversion (FWI) approach based on sensitivity kernels. A very efficient implementation can be realized with 
 frequency domain wavefields, which can be computed "on-the-fly" while FD time-looping via DFT.
 
-
-## Copyright and License
-
-(c) 2018 D. Koehn. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!
-
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
